@@ -1,0 +1,6 @@
+name: Guns
+version: 1.0.0
+main: br.com.abidux.guns.Main
+author: abidux
+commands:
+  getgun:
